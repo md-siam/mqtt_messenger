@@ -1,4 +1,4 @@
-# MQTT/MQTT5 Messenger
+# MQTT & MQTT5 Messenger
 
 A flutter application to demonstrate MQTT & MQTT5....
 Using different MQTT brokers transfer data between multiple devices. Realtime data synchronization.
